@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "new",
+    "slug": "new",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/wingonly.jpg",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/wingonly.jpg",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/wingonly.jpg",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/wingonly.jpg"
+    }
+  }
+}
